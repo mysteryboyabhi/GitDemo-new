@@ -11,6 +11,7 @@ namespace GitDemo_new
         static void Main(string[] args)
         {
             Console.WriteLine("This is my new git repo");
+            Console.WriteLine("Qa");
             Console.ReadLine();
         }
     }
